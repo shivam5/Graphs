@@ -1,0 +1,2136 @@
+
+=============================================================
+1. List all countries and bordering countries
+2. Find shortest path
+3. List all countries with X neighbors
+4. Find countries with borders larger than X km
+5. Exit
+Enter your option 
+*****************************************************
+	Countries and their bordering Countries
+*****************************************************
+
+==============================================================
+Country : Adelie Land (France), ID - 0
+Bodering countries : 
+Australian Antarctic Territory (Australia), ID - 1
+
+
+==============================================================
+Country : Australian Antarctic Territory (Australia), ID - 1
+Bodering countries : 
+Adelie Land (France), ID - 0
+Queen Maud Land (Norway), ID - 53
+Ross Dependency (New Zealand), ID - 54
+
+
+==============================================================
+Country : Afghanistan, ID - 2
+Bodering countries : 
+People's Republic of China, ID - 3
+Iran, ID - 4
+Pakistan, ID - 5
+Tajikistan, ID - 6
+Turkmenistan, ID - 7
+Uzbekistan, ID - 8
+
+
+==============================================================
+Country : People's Republic of China, ID - 3
+Bodering countries : 
+Afghanistan, ID - 2
+Bhutan, ID - 90
+Hong Kong (People's Republic of China), ID - 130
+India, ID - 70
+Kazakhstan, ID - 131
+North Korea, ID - 132
+Kyrgyzstan, ID - 133
+Laos, ID - 116
+Macau (People's Republic of China), ID - 134
+Mongolia, ID - 135
+Myanmar, ID - 71
+Nepal, ID - 136
+Pakistan, ID - 5
+Russia, ID - 64
+Tajikistan, ID - 6
+Vietnam, ID - 118
+
+
+==============================================================
+Country : Iran, ID - 4
+Bodering countries : 
+Afghanistan, ID - 2
+Armenia, ID - 45
+Azerbaijan, ID - 46
+Iraq, ID - 195
+Pakistan, ID - 5
+Turkey, ID - 48
+Turkmenistan, ID - 7
+Nagorno-Karabakh Republic, ID - 49
+
+
+==============================================================
+Country : Pakistan, ID - 5
+Bodering countries : 
+Afghanistan, ID - 2
+People's Republic of China, ID - 3
+India, ID - 70
+Iran, ID - 4
+
+
+==============================================================
+Country : Tajikistan, ID - 6
+Bodering countries : 
+Afghanistan, ID - 2
+People's Republic of China, ID - 3
+Kyrgyzstan, ID - 133
+Uzbekistan, ID - 8
+
+
+==============================================================
+Country : Turkmenistan, ID - 7
+Bodering countries : 
+Afghanistan, ID - 2
+Iran, ID - 4
+Kazakhstan, ID - 131
+Uzbekistan, ID - 8
+
+
+==============================================================
+Country : Uzbekistan, ID - 8
+Bodering countries : 
+Afghanistan, ID - 2
+Kazakhstan, ID - 131
+Kyrgyzstan, ID - 133
+Tajikistan, ID - 6
+Turkmenistan, ID - 7
+
+
+==============================================================
+Country : Akrotiri and Dhekelia (United Kingdom), ID - 9
+Bodering countries : 
+Cyprus, ID - 10
+Northern Cyprus, ID - 11
+
+
+==============================================================
+Country : Cyprus, ID - 10
+Bodering countries : 
+Akrotiri and Dhekelia (United Kingdom), ID - 9
+Northern Cyprus, ID - 11
+
+
+==============================================================
+Country : Northern Cyprus, ID - 11
+Bodering countries : 
+Akrotiri and Dhekelia (United Kingdom), ID - 9
+Cyprus, ID - 10
+
+
+==============================================================
+Country : Albania, ID - 12
+Bodering countries : 
+Greece, ID - 13
+Kosovo, ID - 14
+Macedonia, ID - 15
+Montenegro, ID - 16
+
+
+==============================================================
+Country : Greece, ID - 13
+Bodering countries : 
+Albania, ID - 12
+Bulgaria, ID - 108
+Turkey, ID - 48
+Macedonia, ID - 15
+
+
+==============================================================
+Country : Kosovo, ID - 14
+Bodering countries : 
+Albania, ID - 12
+Macedonia, ID - 15
+Montenegro, ID - 16
+Serbia, ID - 94
+
+
+==============================================================
+Country : Macedonia, ID - 15
+Bodering countries : 
+Albania, ID - 12
+Bulgaria, ID - 108
+Greece, ID - 13
+Kosovo, ID - 14
+Serbia, ID - 94
+
+
+==============================================================
+Country : Montenegro, ID - 16
+Bodering countries : 
+Albania, ID - 12
+Bosnia and Herzegovina, ID - 92
+Croatia, ID - 93
+Kosovo, ID - 14
+Serbia, ID - 94
+
+
+==============================================================
+Country : Algeria, ID - 17
+Bodering countries : 
+Libya, ID - 18
+Mali, ID - 19
+Mauritania, ID - 20
+Morocco, ID - 21
+Niger, ID - 22
+Tunisia, ID - 23
+Western Sahara, ID - 24
+
+
+==============================================================
+Country : Libya, ID - 18
+Bodering countries : 
+Algeria, ID - 17
+Chad, ID - 121
+Egypt, ID - 162
+Niger, ID - 22
+Sudan, ID - 129
+Tunisia, ID - 23
+
+
+==============================================================
+Country : Mali, ID - 19
+Bodering countries : 
+Algeria, ID - 17
+Burkina Faso, ID - 86
+Cote d'Ivoire, ID - 110
+Guinea, ID - 147
+Mauritania, ID - 20
+Niger, ID - 22
+Senegal, ID - 179
+
+
+==============================================================
+Country : Mauritania, ID - 20
+Bodering countries : 
+Algeria, ID - 17
+Mali, ID - 19
+Senegal, ID - 179
+Western Sahara, ID - 24
+
+
+==============================================================
+Country : Morocco, ID - 21
+Bodering countries : 
+Algeria, ID - 17
+Western Sahara, ID - 24
+Spain, ID - 29
+
+
+==============================================================
+Country : Niger, ID - 22
+Bodering countries : 
+Algeria, ID - 17
+Benin, ID - 85
+Burkina Faso, ID - 86
+Chad, ID - 121
+Libya, ID - 18
+Mali, ID - 19
+Nigeria, ID - 87
+
+
+==============================================================
+Country : Tunisia, ID - 23
+Bodering countries : 
+Algeria, ID - 17
+Libya, ID - 18
+
+
+==============================================================
+Country : Western Sahara, ID - 24
+Bodering countries : 
+Algeria, ID - 17
+Mauritania, ID - 20
+Morocco, ID - 21
+
+
+==============================================================
+Country : American Samoa (United States), ID - 25
+Bodering countries : 
+
+
+==============================================================
+Country : Amsterdam Island and Ile Saint-Paul (France), ID - 26
+Bodering countries : 
+
+
+==============================================================
+Country : Andorra, ID - 27
+Bodering countries : 
+France, ID - 28
+Spain, ID - 29
+
+
+==============================================================
+Country : France, ID - 28
+Bodering countries : 
+Andorra, ID - 27
+Belgium, ID - 79
+Germany, ID - 57
+Italy, ID - 59
+Luxembourg, ID - 80
+Monaco, ID - 175
+Spain, ID - 29
+Switzerland, ID - 63
+
+
+==============================================================
+Country : Spain, ID - 29
+Bodering countries : 
+Andorra, ID - 27
+France, ID - 28
+Gibraltar (United Kingdom), ID - 180
+Portugal, ID - 249
+Morocco, ID - 21
+
+
+==============================================================
+Country : Angola, ID - 30
+Bodering countries : 
+Democratic Republic of the Congo, ID - 31
+Republic of the Congo, ID - 32
+Namibia, ID - 33
+Zambia, ID - 34
+
+
+==============================================================
+Country : Democratic Republic of the Congo, ID - 31
+Bodering countries : 
+Angola, ID - 30
+Burundi, ID - 112
+Central African Republic, ID - 120
+Republic of the Congo, ID - 32
+Rwanda, ID - 113
+South Sudan, ID - 128
+Tanzania, ID - 114
+Uganda, ID - 143
+Zambia, ID - 34
+
+
+==============================================================
+Country : Republic of the Congo, ID - 32
+Bodering countries : 
+Angola, ID - 30
+Cameroon, ID - 119
+Central African Republic, ID - 120
+Democratic Republic of the Congo, ID - 31
+Gabon, ID - 123
+
+
+==============================================================
+Country : Namibia, ID - 33
+Bodering countries : 
+Angola, ID - 30
+Botswana, ID - 95
+South Africa, ID - 96
+Zambia, ID - 34
+
+
+==============================================================
+Country : Zambia, ID - 34
+Bodering countries : 
+Angola, ID - 30
+Botswana, ID - 95
+Democratic Republic of the Congo, ID - 31
+Malawi, ID - 221
+Mozambique, ID - 222
+Namibia, ID - 33
+Tanzania, ID - 114
+Zimbabwe, ID - 97
+
+
+==============================================================
+Country : Anguilla (United Kingdom), ID - 35
+Bodering countries : 
+
+
+==============================================================
+Country : Antartica Chilena Province (Chile), ID - 36
+Bodering countries : 
+British Antarctic Territory (United Kingdom), ID - 37
+
+
+==============================================================
+Country : British Antarctic Territory (United Kingdom), ID - 37
+Bodering countries : 
+Antartica Chilena Province (Chile), ID - 36
+Queen Maud Land (Norway), ID - 53
+
+
+==============================================================
+Country : Antigua and Barbuda, ID - 38
+Bodering countries : 
+
+
+==============================================================
+Country : Argentina, ID - 39
+Bodering countries : 
+Bolivia, ID - 40
+Brazil, ID - 41
+Chile, ID - 42
+Paraguay, ID - 43
+Uruguay, ID - 44
+
+
+==============================================================
+Country : Bolivia, ID - 40
+Bodering countries : 
+Argentina, ID - 39
+Brazil, ID - 41
+Chile, ID - 42
+Paraguay, ID - 43
+Peru, ID - 91
+
+
+==============================================================
+Country : Brazil, ID - 41
+Bodering countries : 
+Argentina, ID - 39
+Bolivia, ID - 40
+Colombia, ID - 99
+French Guiana (France), ID - 100
+Guyana, ID - 101
+Paraguay, ID - 43
+Peru, ID - 91
+Suriname, ID - 102
+Uruguay, ID - 44
+Venezuela, ID - 103
+
+
+==============================================================
+Country : Chile, ID - 42
+Bodering countries : 
+Argentina, ID - 39
+Bolivia, ID - 40
+Peru, ID - 91
+
+
+==============================================================
+Country : Paraguay, ID - 43
+Bodering countries : 
+Argentina, ID - 39
+Bolivia, ID - 40
+Brazil, ID - 41
+
+
+==============================================================
+Country : Uruguay, ID - 44
+Bodering countries : 
+Argentina, ID - 39
+Brazil, ID - 41
+
+
+==============================================================
+Country : Armenia, ID - 45
+Bodering countries : 
+Azerbaijan, ID - 46
+Georgia, ID - 47
+Iran, ID - 4
+Turkey, ID - 48
+Nagorno-Karabakh Republic, ID - 49
+
+
+==============================================================
+Country : Azerbaijan, ID - 46
+Bodering countries : 
+Armenia, ID - 45
+Georgia, ID - 47
+Iran, ID - 4
+Russia, ID - 64
+Turkey, ID - 48
+Nagorno-Karabakh Republic, ID - 49
+
+
+==============================================================
+Country : Georgia, ID - 47
+Bodering countries : 
+Armenia, ID - 45
+Azerbaijan, ID - 46
+Russia, ID - 64
+Turkey, ID - 48
+
+
+==============================================================
+Country : Turkey, ID - 48
+Bodering countries : 
+Armenia, ID - 45
+Azerbaijan, ID - 46
+Bulgaria, ID - 108
+Georgia, ID - 47
+Greece, ID - 13
+Iran, ID - 4
+Iraq, ID - 195
+Syria, ID - 199
+
+
+==============================================================
+Country : Nagorno-Karabakh Republic, ID - 49
+Bodering countries : 
+Armenia, ID - 45
+Azerbaijan, ID - 46
+Iran, ID - 4
+
+
+==============================================================
+Country : Aruba (Netherlands), ID - 50
+Bodering countries : 
+
+
+==============================================================
+Country : Ashmore and Cartier Islands (Australia), ID - 51
+Bodering countries : 
+
+
+==============================================================
+Country : Australia, ID - 52
+Bodering countries : 
+
+
+==============================================================
+Country : Queen Maud Land (Norway), ID - 53
+Bodering countries : 
+Australian Antarctic Territory (Australia), ID - 1
+British Antarctic Territory (United Kingdom), ID - 37
+
+
+==============================================================
+Country : Ross Dependency (New Zealand), ID - 54
+Bodering countries : 
+Australian Antarctic Territory (Australia), ID - 1
+
+
+==============================================================
+Country : Austria, ID - 55
+Bodering countries : 
+Czech Republic, ID - 56
+Germany, ID - 57
+Hungary, ID - 58
+Italy, ID - 59
+Liechtenstein, ID - 60
+Slovakia, ID - 61
+Slovenia, ID - 62
+Switzerland, ID - 63
+
+
+==============================================================
+Country : Czech Republic, ID - 56
+Bodering countries : 
+Austria, ID - 55
+Germany, ID - 57
+Poland, ID - 77
+Slovakia, ID - 61
+
+
+==============================================================
+Country : Germany, ID - 57
+Bodering countries : 
+Austria, ID - 55
+Belgium, ID - 79
+Czech Republic, ID - 56
+Denmark, ID - 152
+France, ID - 28
+Luxembourg, ID - 80
+Netherlands, ID - 81
+Poland, ID - 77
+Switzerland, ID - 63
+
+
+==============================================================
+Country : Hungary, ID - 58
+Bodering countries : 
+Austria, ID - 55
+Croatia, ID - 93
+Romania, ID - 109
+Serbia, ID - 94
+Slovakia, ID - 61
+Slovenia, ID - 62
+Ukraine, ID - 78
+
+
+==============================================================
+Country : Italy, ID - 59
+Bodering countries : 
+Austria, ID - 55
+France, ID - 28
+San Marino, ID - 205
+Slovenia, ID - 62
+Switzerland, ID - 63
+Vatican City, ID - 206
+
+
+==============================================================
+Country : Liechtenstein, ID - 60
+Bodering countries : 
+Austria, ID - 55
+Switzerland, ID - 63
+
+
+==============================================================
+Country : Slovakia, ID - 61
+Bodering countries : 
+Austria, ID - 55
+Czech Republic, ID - 56
+Hungary, ID - 58
+Poland, ID - 77
+Ukraine, ID - 78
+
+
+==============================================================
+Country : Slovenia, ID - 62
+Bodering countries : 
+Austria, ID - 55
+Croatia, ID - 93
+Italy, ID - 59
+Hungary, ID - 58
+
+
+==============================================================
+Country : Switzerland, ID - 63
+Bodering countries : 
+Austria, ID - 55
+France, ID - 28
+Italy, ID - 59
+Liechtenstein, ID - 60
+Germany, ID - 57
+
+
+==============================================================
+Country : Russia, ID - 64
+Bodering countries : 
+Azerbaijan, ID - 46
+Belarus, ID - 74
+People's Republic of China, ID - 3
+Estonia, ID - 167
+Finland, ID - 172
+Georgia, ID - 47
+Kazakhstan, ID - 131
+North Korea, ID - 132
+Latvia, ID - 75
+Lithuania, ID - 76
+Mongolia, ID - 135
+Norway, ID - 173
+Poland, ID - 77
+Ukraine, ID - 78
+
+
+==============================================================
+Country : Azores (Portugal), ID - 65
+Bodering countries : 
+
+
+==============================================================
+Country : Bahamas, ID - 66
+Bodering countries : 
+
+
+==============================================================
+Country : Bahrain, ID - 67
+Bodering countries : 
+
+
+==============================================================
+Country : Baker Island and Howland Island (United States), ID - 68
+Bodering countries : 
+
+
+==============================================================
+Country : Bangladesh, ID - 69
+Bodering countries : 
+India, ID - 70
+Myanmar, ID - 71
+
+
+==============================================================
+Country : India, ID - 70
+Bodering countries : 
+Bangladesh, ID - 69
+Bhutan, ID - 90
+People's Republic of China, ID - 3
+Myanmar, ID - 71
+Nepal, ID - 136
+Pakistan, ID - 5
+Sri Lanka, ID - 193
+
+
+==============================================================
+Country : Myanmar, ID - 71
+Bodering countries : 
+Bangladesh, ID - 69
+People's Republic of China, ID - 3
+India, ID - 70
+Laos, ID - 116
+Thailand, ID - 117
+
+
+==============================================================
+Country : Barbados, ID - 72
+Bodering countries : 
+
+
+==============================================================
+Country : Bassas da India, Europa Island, and Juan de Nova Island (France), ID - 73
+Bodering countries : 
+
+
+==============================================================
+Country : Belarus, ID - 74
+Bodering countries : 
+Latvia, ID - 75
+Lithuania, ID - 76
+Poland, ID - 77
+Russia, ID - 64
+Ukraine, ID - 78
+
+
+==============================================================
+Country : Latvia, ID - 75
+Bodering countries : 
+Belarus, ID - 74
+Estonia, ID - 167
+Lithuania, ID - 76
+Russia, ID - 64
+
+
+==============================================================
+Country : Lithuania, ID - 76
+Bodering countries : 
+Belarus, ID - 74
+Latvia, ID - 75
+Poland, ID - 77
+Russia, ID - 64
+
+
+==============================================================
+Country : Poland, ID - 77
+Bodering countries : 
+Belarus, ID - 74
+Czech Republic, ID - 56
+Germany, ID - 57
+Lithuania, ID - 76
+Russia, ID - 64
+Slovakia, ID - 61
+Ukraine, ID - 78
+
+
+==============================================================
+Country : Ukraine, ID - 78
+Bodering countries : 
+Belarus, ID - 74
+Hungary, ID - 58
+Moldova, ID - 231
+Poland, ID - 77
+Romania, ID - 109
+Russia, ID - 64
+Slovakia, ID - 61
+
+
+==============================================================
+Country : Belgium, ID - 79
+Bodering countries : 
+France, ID - 28
+Germany, ID - 57
+Luxembourg, ID - 80
+Netherlands, ID - 81
+
+
+==============================================================
+Country : Luxembourg, ID - 80
+Bodering countries : 
+Belgium, ID - 79
+France, ID - 28
+Germany, ID - 57
+
+
+==============================================================
+Country : Netherlands, ID - 81
+Bodering countries : 
+Belgium, ID - 79
+Germany, ID - 57
+
+
+==============================================================
+Country : Belize, ID - 82
+Bodering countries : 
+Guatemala, ID - 83
+Mexico, ID - 84
+
+
+==============================================================
+Country : Guatemala, ID - 83
+Bodering countries : 
+Belize, ID - 82
+El Salvador, ID - 165
+Honduras, ID - 166
+Mexico, ID - 84
+
+
+==============================================================
+Country : Mexico, ID - 84
+Bodering countries : 
+Belize, ID - 82
+Guatemala, ID - 83
+United States, ID - 125
+
+
+==============================================================
+Country : Benin, ID - 85
+Bodering countries : 
+Burkina Faso, ID - 86
+Niger, ID - 22
+Nigeria, ID - 87
+Togo, ID - 88
+
+
+==============================================================
+Country : Burkina Faso, ID - 86
+Bodering countries : 
+Benin, ID - 85
+Cote d'Ivoire, ID - 110
+Ghana, ID - 111
+Mali, ID - 19
+Niger, ID - 22
+Togo, ID - 88
+
+
+==============================================================
+Country : Nigeria, ID - 87
+Bodering countries : 
+Benin, ID - 85
+Cameroon, ID - 119
+Chad, ID - 121
+Niger, ID - 22
+
+
+==============================================================
+Country : Togo, ID - 88
+Bodering countries : 
+Benin, ID - 85
+Burkina Faso, ID - 86
+Ghana, ID - 111
+
+
+==============================================================
+Country : Bermuda (United Kingdom), ID - 89
+Bodering countries : 
+
+
+==============================================================
+Country : Bhutan, ID - 90
+Bodering countries : 
+People's Republic of China, ID - 3
+India, ID - 70
+
+
+==============================================================
+Country : Peru, ID - 91
+Bodering countries : 
+Bolivia, ID - 40
+Brazil, ID - 41
+Chile, ID - 42
+Colombia, ID - 99
+Ecuador, ID - 140
+
+
+==============================================================
+Country : Bosnia and Herzegovina, ID - 92
+Bodering countries : 
+Croatia, ID - 93
+Montenegro, ID - 16
+Serbia, ID - 94
+
+
+==============================================================
+Country : Croatia, ID - 93
+Bodering countries : 
+Bosnia and Herzegovina, ID - 92
+Hungary, ID - 58
+Montenegro, ID - 16
+Serbia, ID - 94
+Slovenia, ID - 62
+
+
+==============================================================
+Country : Serbia, ID - 94
+Bodering countries : 
+Bosnia and Herzegovina, ID - 92
+Bulgaria, ID - 108
+Croatia, ID - 93
+Hungary, ID - 58
+Kosovo, ID - 14
+Macedonia, ID - 15
+Montenegro, ID - 16
+Romania, ID - 109
+
+
+==============================================================
+Country : Botswana, ID - 95
+Bodering countries : 
+Namibia, ID - 33
+South Africa, ID - 96
+Zambia, ID - 34
+Zimbabwe, ID - 97
+
+
+==============================================================
+Country : South Africa, ID - 96
+Bodering countries : 
+Botswana, ID - 95
+Lesotho, ID - 217
+Mozambique, ID - 222
+Namibia, ID - 33
+Swaziland, ID - 233
+Zimbabwe, ID - 97
+
+
+==============================================================
+Country : Zimbabwe, ID - 97
+Bodering countries : 
+Botswana, ID - 95
+Mozambique, ID - 222
+South Africa, ID - 96
+Zambia, ID - 34
+
+
+==============================================================
+Country : Bouvet Island, ID - 98
+Bodering countries : 
+
+
+==============================================================
+Country : Colombia, ID - 99
+Bodering countries : 
+Brazil, ID - 41
+Ecuador, ID - 140
+Panama, ID - 141
+Peru, ID - 91
+Venezuela, ID - 103
+
+
+==============================================================
+Country : French Guiana (France), ID - 100
+Bodering countries : 
+Brazil, ID - 41
+Suriname, ID - 102
+
+
+==============================================================
+Country : Guyana, ID - 101
+Bodering countries : 
+Brazil, ID - 41
+Suriname, ID - 102
+Venezuela, ID - 103
+
+
+==============================================================
+Country : Suriname, ID - 102
+Bodering countries : 
+Brazil, ID - 41
+French Guiana (France), ID - 100
+Guyana, ID - 101
+
+
+==============================================================
+Country : Venezuela, ID - 103
+Bodering countries : 
+Brazil, ID - 41
+Colombia, ID - 99
+Guyana, ID - 101
+
+
+==============================================================
+Country : British Indian Ocean Territory (United Kingdom), ID - 104
+Bodering countries : 
+
+
+==============================================================
+Country : British Virgin Islands (United Kingdom), ID - 105
+Bodering countries : 
+
+
+==============================================================
+Country : Brunei, ID - 106
+Bodering countries : 
+Malaysia, ID - 107
+
+
+==============================================================
+Country : Malaysia, ID - 107
+Bodering countries : 
+Brunei, ID - 106
+Indonesia, ID - 161
+Thailand, ID - 117
+
+
+==============================================================
+Country : Bulgaria, ID - 108
+Bodering countries : 
+Greece, ID - 13
+Macedonia, ID - 15
+Romania, ID - 109
+Serbia, ID - 94
+Turkey, ID - 48
+
+
+==============================================================
+Country : Romania, ID - 109
+Bodering countries : 
+Bulgaria, ID - 108
+Hungary, ID - 58
+Moldova, ID - 231
+Serbia, ID - 94
+Ukraine, ID - 78
+
+
+==============================================================
+Country : Cote d'Ivoire, ID - 110
+Bodering countries : 
+Burkina Faso, ID - 86
+Ghana, ID - 111
+Guinea, ID - 147
+Liberia, ID - 148
+Mali, ID - 19
+
+
+==============================================================
+Country : Ghana, ID - 111
+Bodering countries : 
+Burkina Faso, ID - 86
+Cote d'Ivoire, ID - 110
+Togo, ID - 88
+
+
+==============================================================
+Country : Burundi, ID - 112
+Bodering countries : 
+Democratic Republic of the Congo, ID - 31
+Rwanda, ID - 113
+Tanzania, ID - 114
+
+
+==============================================================
+Country : Rwanda, ID - 113
+Bodering countries : 
+Burundi, ID - 112
+Democratic Republic of the Congo, ID - 31
+Tanzania, ID - 114
+Uganda, ID - 143
+
+
+==============================================================
+Country : Tanzania, ID - 114
+Bodering countries : 
+Burundi, ID - 112
+Democratic Republic of the Congo, ID - 31
+Kenya, ID - 168
+Malawi, ID - 221
+Mozambique, ID - 222
+Rwanda, ID - 113
+Uganda, ID - 143
+Zambia, ID - 34
+
+
+==============================================================
+Country : Cambodia, ID - 115
+Bodering countries : 
+Laos, ID - 116
+Thailand, ID - 117
+Vietnam, ID - 118
+
+
+==============================================================
+Country : Laos, ID - 116
+Bodering countries : 
+Cambodia, ID - 115
+People's Republic of China, ID - 3
+Myanmar, ID - 71
+Thailand, ID - 117
+Vietnam, ID - 118
+
+
+==============================================================
+Country : Thailand, ID - 117
+Bodering countries : 
+Cambodia, ID - 115
+Laos, ID - 116
+Malaysia, ID - 107
+Myanmar, ID - 71
+
+
+==============================================================
+Country : Vietnam, ID - 118
+Bodering countries : 
+Cambodia, ID - 115
+People's Republic of China, ID - 3
+Laos, ID - 116
+
+
+==============================================================
+Country : Cameroon, ID - 119
+Bodering countries : 
+Central African Republic, ID - 120
+Chad, ID - 121
+Republic of the Congo, ID - 32
+Equatorial Guinea, ID - 122
+Gabon, ID - 123
+Nigeria, ID - 87
+
+
+==============================================================
+Country : Central African Republic, ID - 120
+Bodering countries : 
+Cameroon, ID - 119
+Chad, ID - 121
+Democratic Republic of the Congo, ID - 31
+Republic of the Congo, ID - 32
+South Sudan, ID - 128
+Sudan, ID - 129
+
+
+==============================================================
+Country : Chad, ID - 121
+Bodering countries : 
+Cameroon, ID - 119
+Central African Republic, ID - 120
+Libya, ID - 18
+Niger, ID - 22
+Nigeria, ID - 87
+Sudan, ID - 129
+
+
+==============================================================
+Country : Equatorial Guinea, ID - 122
+Bodering countries : 
+Cameroon, ID - 119
+Gabon, ID - 123
+
+
+==============================================================
+Country : Gabon, ID - 123
+Bodering countries : 
+Cameroon, ID - 119
+Republic of the Congo, ID - 32
+Equatorial Guinea, ID - 122
+
+
+==============================================================
+Country : Canada, ID - 124
+Bodering countries : 
+United States, ID - 125
+
+
+==============================================================
+Country : United States, ID - 125
+Bodering countries : 
+Canada, ID - 124
+Mexico, ID - 84
+
+
+==============================================================
+Country : Cape Verde, ID - 126
+Bodering countries : 
+
+
+==============================================================
+Country : Cayman Islands (United Kingdom), ID - 127
+Bodering countries : 
+
+
+==============================================================
+Country : South Sudan, ID - 128
+Bodering countries : 
+Central African Republic, ID - 120
+Democratic Republic of the Congo, ID - 31
+Ethiopia, ID - 155
+Kenya, ID - 168
+Sudan, ID - 129
+Uganda, ID - 143
+
+
+==============================================================
+Country : Sudan, ID - 129
+Bodering countries : 
+Central African Republic, ID - 120
+Chad, ID - 121
+Egypt, ID - 162
+Eritrea, ID - 154
+Ethiopia, ID - 155
+Libya, ID - 18
+South Sudan, ID - 128
+
+
+==============================================================
+Country : Hong Kong (People's Republic of China), ID - 130
+Bodering countries : 
+People's Republic of China, ID - 3
+
+
+==============================================================
+Country : Kazakhstan, ID - 131
+Bodering countries : 
+People's Republic of China, ID - 3
+Kyrgyzstan, ID - 133
+Russia, ID - 64
+Turkmenistan, ID - 7
+Uzbekistan, ID - 8
+
+
+==============================================================
+Country : North Korea, ID - 132
+Bodering countries : 
+People's Republic of China, ID - 3
+South Korea, ID - 216
+Russia, ID - 64
+
+
+==============================================================
+Country : Kyrgyzstan, ID - 133
+Bodering countries : 
+People's Republic of China, ID - 3
+Kazakhstan, ID - 131
+Tajikistan, ID - 6
+Uzbekistan, ID - 8
+
+
+==============================================================
+Country : Macau (People's Republic of China), ID - 134
+Bodering countries : 
+People's Republic of China, ID - 3
+
+
+==============================================================
+Country : Mongolia, ID - 135
+Bodering countries : 
+People's Republic of China, ID - 3
+Russia, ID - 64
+
+
+==============================================================
+Country : Nepal, ID - 136
+Bodering countries : 
+People's Republic of China, ID - 3
+India, ID - 70
+
+
+==============================================================
+Country : Christmas Island (Australia), ID - 137
+Bodering countries : 
+
+
+==============================================================
+Country : Clipperton Island (France), ID - 138
+Bodering countries : 
+
+
+==============================================================
+Country : Cocos (Keeling) Islands (Australia), ID - 139
+Bodering countries : 
+
+
+==============================================================
+Country : Ecuador, ID - 140
+Bodering countries : 
+Colombia, ID - 99
+Peru, ID - 91
+
+
+==============================================================
+Country : Panama, ID - 141
+Bodering countries : 
+Colombia, ID - 99
+Costa Rica, ID - 145
+
+
+==============================================================
+Country : Comoros, ID - 142
+Bodering countries : 
+
+
+==============================================================
+Country : Uganda, ID - 143
+Bodering countries : 
+Democratic Republic of the Congo, ID - 31
+Kenya, ID - 168
+Rwanda, ID - 113
+South Sudan, ID - 128
+Tanzania, ID - 114
+
+
+==============================================================
+Country : Cook Islands, ID - 144
+Bodering countries : 
+
+
+==============================================================
+Country : Costa Rica, ID - 145
+Bodering countries : 
+Nicaragua, ID - 146
+Panama, ID - 141
+
+
+==============================================================
+Country : Nicaragua, ID - 146
+Bodering countries : 
+Costa Rica, ID - 145
+Honduras, ID - 166
+
+
+==============================================================
+Country : Guinea, ID - 147
+Bodering countries : 
+Cote d'Ivoire, ID - 110
+Guinea-Bissau, ID - 187
+Liberia, ID - 148
+Mali, ID - 19
+Senegal, ID - 179
+Sierra Leone, ID - 188
+
+
+==============================================================
+Country : Liberia, ID - 148
+Bodering countries : 
+Guinea, ID - 147
+Cote d'Ivoire, ID - 110
+Sierra Leone, ID - 188
+
+
+==============================================================
+Country : Crozet Islands (France), ID - 149
+Bodering countries : 
+
+
+==============================================================
+Country : Cuba, ID - 150
+Bodering countries : 
+
+
+==============================================================
+Country : Curacao (Netherlands), ID - 151
+Bodering countries : 
+
+
+==============================================================
+Country : Denmark, ID - 152
+Bodering countries : 
+Germany, ID - 57
+
+
+==============================================================
+Country : Djibouti, ID - 153
+Bodering countries : 
+Eritrea, ID - 154
+Ethiopia, ID - 155
+Somalia, ID - 156
+
+
+==============================================================
+Country : Eritrea, ID - 154
+Bodering countries : 
+Djibouti, ID - 153
+Ethiopia, ID - 155
+Sudan, ID - 129
+
+
+==============================================================
+Country : Ethiopia, ID - 155
+Bodering countries : 
+Djibouti, ID - 153
+Eritrea, ID - 154
+Kenya, ID - 168
+Somalia, ID - 156
+South Sudan, ID - 128
+Sudan, ID - 129
+
+
+==============================================================
+Country : Somalia, ID - 156
+Bodering countries : 
+Djibouti, ID - 153
+Ethiopia, ID - 155
+Kenya, ID - 168
+
+
+==============================================================
+Country : Dominica, ID - 157
+Bodering countries : 
+
+
+==============================================================
+Country : Dominican Republic, ID - 158
+Bodering countries : 
+Haiti, ID - 159
+
+
+==============================================================
+Country : Haiti, ID - 159
+Bodering countries : 
+Dominican Republic, ID - 158
+
+
+==============================================================
+Country : East Timor, ID - 160
+Bodering countries : 
+Indonesia, ID - 161
+
+
+==============================================================
+Country : Indonesia, ID - 161
+Bodering countries : 
+East Timor, ID - 160
+Malaysia, ID - 107
+Papua New Guinea, ID - 194
+
+
+==============================================================
+Country : Egypt, ID - 162
+Bodering countries : 
+Gaza Strip (Palestinian territories), ID - 163
+Israel, ID - 164
+Libya, ID - 18
+Sudan, ID - 129
+
+
+==============================================================
+Country : Gaza Strip (Palestinian territories), ID - 163
+Bodering countries : 
+Egypt, ID - 162
+Israel, ID - 164
+
+
+==============================================================
+Country : Israel, ID - 164
+Bodering countries : 
+Egypt, ID - 162
+Gaza Strip (Palestinian territories), ID - 163
+Jordan, ID - 196
+Lebanon, ID - 203
+Syria, ID - 199
+West Bank (Palestinian territories), ID - 204
+
+
+==============================================================
+Country : El Salvador, ID - 165
+Bodering countries : 
+Guatemala, ID - 83
+Honduras, ID - 166
+
+
+==============================================================
+Country : Honduras, ID - 166
+Bodering countries : 
+Guatemala, ID - 83
+El Salvador, ID - 165
+Nicaragua, ID - 146
+
+
+==============================================================
+Country : Estonia, ID - 167
+Bodering countries : 
+Latvia, ID - 75
+Russia, ID - 64
+
+
+==============================================================
+Country : Kenya, ID - 168
+Bodering countries : 
+Ethiopia, ID - 155
+Somalia, ID - 156
+South Sudan, ID - 128
+Tanzania, ID - 114
+Uganda, ID - 143
+
+
+==============================================================
+Country : Falkland Islands (United Kingdom), ID - 169
+Bodering countries : 
+
+
+==============================================================
+Country : Faroe Islands (Denmark), ID - 170
+Bodering countries : 
+
+
+==============================================================
+Country : Fiji, ID - 171
+Bodering countries : 
+
+
+==============================================================
+Country : Finland, ID - 172
+Bodering countries : 
+Norway, ID - 173
+Sweden, ID - 174
+Russia, ID - 64
+
+
+==============================================================
+Country : Norway, ID - 173
+Bodering countries : 
+Finland, ID - 172
+Sweden, ID - 174
+Russia, ID - 64
+
+
+==============================================================
+Country : Sweden, ID - 174
+Bodering countries : 
+Finland, ID - 172
+Norway, ID - 173
+
+
+==============================================================
+Country : Monaco, ID - 175
+Bodering countries : 
+France, ID - 28
+
+
+==============================================================
+Country : French Polynesia (France), ID - 176
+Bodering countries : 
+
+
+==============================================================
+Country : French Southern and Antarctic Lands (France), ID - 177
+Bodering countries : 
+
+
+==============================================================
+Country : The Gambia, ID - 178
+Bodering countries : 
+Senegal, ID - 179
+
+
+==============================================================
+Country : Senegal, ID - 179
+Bodering countries : 
+The Gambia, ID - 178
+Guinea, ID - 147
+Guinea-Bissau, ID - 187
+Mali, ID - 19
+Mauritania, ID - 20
+
+
+==============================================================
+Country : Gibraltar (United Kingdom), ID - 180
+Bodering countries : 
+Spain, ID - 29
+
+
+==============================================================
+Country : Glorioso Islands (France), ID - 181
+Bodering countries : 
+
+
+==============================================================
+Country : Greenland (Denmark), ID - 182
+Bodering countries : 
+
+
+==============================================================
+Country : Grenada, ID - 183
+Bodering countries : 
+
+
+==============================================================
+Country : Guadeloupe (France), ID - 184
+Bodering countries : 
+
+
+==============================================================
+Country : Guam (United States), ID - 185
+Bodering countries : 
+
+
+==============================================================
+Country : Guernsey (United Kingdom), ID - 186
+Bodering countries : 
+
+
+==============================================================
+Country : Guinea-Bissau, ID - 187
+Bodering countries : 
+Guinea, ID - 147
+Senegal, ID - 179
+
+
+==============================================================
+Country : Sierra Leone, ID - 188
+Bodering countries : 
+Guinea, ID - 147
+Liberia, ID - 148
+
+
+==============================================================
+Country : Heard Island and McDonald Islands (Australia), ID - 189
+Bodering countries : 
+
+
+==============================================================
+Country : Howland Island and Baker Island (United States), ID - 190
+Bodering countries : 
+
+
+==============================================================
+Country : Iceland, ID - 191
+Bodering countries : 
+
+
+==============================================================
+Country : le Saint-Paul and Amsterdam Island (France), ID - 192
+Bodering countries : 
+
+
+==============================================================
+Country : Sri Lanka, ID - 193
+Bodering countries : 
+India, ID - 70
+
+
+==============================================================
+Country : Papua New Guinea, ID - 194
+Bodering countries : 
+Indonesia, ID - 161
+
+
+==============================================================
+Country : Iraq, ID - 195
+Bodering countries : 
+Iran, ID - 4
+Jordan, ID - 196
+Kuwait, ID - 197
+Saudi Arabia, ID - 198
+Syria, ID - 199
+Turkey, ID - 48
+
+
+==============================================================
+Country : Jordan, ID - 196
+Bodering countries : 
+Iraq, ID - 195
+Israel, ID - 164
+Saudi Arabia, ID - 198
+Syria, ID - 199
+West Bank (Palestinian territories), ID - 204
+
+
+==============================================================
+Country : Kuwait, ID - 197
+Bodering countries : 
+Iraq, ID - 195
+Saudi Arabia, ID - 198
+
+
+==============================================================
+Country : Saudi Arabia, ID - 198
+Bodering countries : 
+Iraq, ID - 195
+Jordan, ID - 196
+Kuwait, ID - 197
+Oman, ID - 241
+Qatar, ID - 251
+United Arab Emirates, ID - 242
+Yemen, ID - 243
+
+
+==============================================================
+Country : Syria, ID - 199
+Bodering countries : 
+Iraq, ID - 195
+Israel, ID - 164
+Jordan, ID - 196
+Lebanon, ID - 203
+Turkey, ID - 48
+
+
+==============================================================
+Country : Ireland, ID - 200
+Bodering countries : 
+United Kingdom, ID - 201
+
+
+==============================================================
+Country : United Kingdom, ID - 201
+Bodering countries : 
+Ireland, ID - 200
+
+
+==============================================================
+Country : Isle of Man (United Kingdom), ID - 202
+Bodering countries : 
+
+
+==============================================================
+Country : Lebanon, ID - 203
+Bodering countries : 
+Israel, ID - 164
+Syria, ID - 199
+
+
+==============================================================
+Country : West Bank (Palestinian territories), ID - 204
+Bodering countries : 
+Israel, ID - 164
+Jordan, ID - 196
+
+
+==============================================================
+Country : San Marino, ID - 205
+Bodering countries : 
+Italy, ID - 59
+
+
+==============================================================
+Country : Vatican City, ID - 206
+Bodering countries : 
+Italy, ID - 59
+
+
+==============================================================
+Country : Jamaica, ID - 207
+Bodering countries : 
+
+
+==============================================================
+Country : Japan, ID - 208
+Bodering countries : 
+
+
+==============================================================
+Country : Jarvis Island (United States), ID - 209
+Bodering countries : 
+
+
+==============================================================
+Country : Jersey, ID - 210
+Bodering countries : 
+
+
+==============================================================
+Country : Johnston Atoll (United States), ID - 211
+Bodering countries : 
+
+
+==============================================================
+Country : Juan de Nova Island, Bassas da India, and Europa Island (France), ID - 212
+Bodering countries : 
+
+
+==============================================================
+Country : Kerguelen Islands (France), ID - 213
+Bodering countries : 
+
+
+==============================================================
+Country : Kingman Reef and Palmyra Atoll (United States), ID - 214
+Bodering countries : 
+
+
+==============================================================
+Country : Kiribati, ID - 215
+Bodering countries : 
+
+
+==============================================================
+Country : South Korea, ID - 216
+Bodering countries : 
+North Korea, ID - 132
+
+
+==============================================================
+Country : Lesotho, ID - 217
+Bodering countries : 
+South Africa, ID - 96
+
+
+==============================================================
+Country : Macquarie Island (Australia), ID - 218
+Bodering countries : 
+
+
+==============================================================
+Country : Madagascar, ID - 219
+Bodering countries : 
+
+
+==============================================================
+Country : Madeira (Portugal), ID - 220
+Bodering countries : 
+
+
+==============================================================
+Country : Malawi, ID - 221
+Bodering countries : 
+Mozambique, ID - 222
+Tanzania, ID - 114
+Zambia, ID - 34
+
+
+==============================================================
+Country : Mozambique, ID - 222
+Bodering countries : 
+Malawi, ID - 221
+South Africa, ID - 96
+Swaziland, ID - 233
+Tanzania, ID - 114
+Zambia, ID - 34
+Zimbabwe, ID - 97
+
+
+==============================================================
+Country : Maldives, ID - 223
+Bodering countries : 
+
+
+==============================================================
+Country : Malta, ID - 224
+Bodering countries : 
+
+
+==============================================================
+Country : Marshall Islands, ID - 225
+Bodering countries : 
+
+
+==============================================================
+Country : Martinique (France), ID - 226
+Bodering countries : 
+
+
+==============================================================
+Country : Mauritius, ID - 227
+Bodering countries : 
+
+
+==============================================================
+Country : Mayotte (France), ID - 228
+Bodering countries : 
+
+
+==============================================================
+Country : Federated States of Micronesia, ID - 229
+Bodering countries : 
+
+
+==============================================================
+Country : Midway Atoll (United States), ID - 230
+Bodering countries : 
+
+
+==============================================================
+Country : Moldova, ID - 231
+Bodering countries : 
+Romania, ID - 109
+Ukraine, ID - 78
+
+
+==============================================================
+Country : Montserrat (United Kingdom), ID - 232
+Bodering countries : 
+
+
+==============================================================
+Country : Swaziland, ID - 233
+Bodering countries : 
+Mozambique, ID - 222
+South Africa, ID - 96
+
+
+==============================================================
+Country : Nauru, ID - 234
+Bodering countries : 
+
+
+==============================================================
+Country : Navassa Island (United States), ID - 235
+Bodering countries : 
+
+
+==============================================================
+Country : New Caledonia (France), ID - 236
+Bodering countries : 
+
+
+==============================================================
+Country : New Zealand, ID - 237
+Bodering countries : 
+
+
+==============================================================
+Country : Niue, ID - 238
+Bodering countries : 
+
+
+==============================================================
+Country : Norfolk Island (Australia), ID - 239
+Bodering countries : 
+
+
+==============================================================
+Country : Northern Mariana Islands (United States), ID - 240
+Bodering countries : 
+
+
+==============================================================
+Country : Oman, ID - 241
+Bodering countries : 
+Saudi Arabia, ID - 198
+United Arab Emirates, ID - 242
+Yemen, ID - 243
+
+
+==============================================================
+Country : United Arab Emirates, ID - 242
+Bodering countries : 
+Oman, ID - 241
+Qatar, ID - 251
+Saudi Arabia, ID - 198
+
+
+==============================================================
+Country : Yemen, ID - 243
+Bodering countries : 
+Oman, ID - 241
+Saudi Arabia, ID - 198
+
+
+==============================================================
+Country : Palau, ID - 244
+Bodering countries : 
+
+
+==============================================================
+Country : Palmyra Atoll and Kingman Reef (United States), ID - 245
+Bodering countries : 
+
+
+==============================================================
+Country : Peter I Island, ID - 246
+Bodering countries : 
+
+
+==============================================================
+Country : Philippines, ID - 247
+Bodering countries : 
+
+
+==============================================================
+Country : Pitcairn Islands (United Kingdom), ID - 248
+Bodering countries : 
+
+
+==============================================================
+Country : Portugal, ID - 249
+Bodering countries : 
+Spain, ID - 29
+
+
+==============================================================
+Country : Puerto Rico (United States), ID - 250
+Bodering countries : 
+
+
+==============================================================
+Country : Qatar, ID - 251
+Bodering countries : 
+Saudi Arabia, ID - 198
+United Arab Emirates, ID - 242
+
+
+==============================================================
+Country : Réunion (France), ID - 252
+Bodering countries : 
+
+
+==============================================================
+Country : Saint Barthelemy (France), ID - 253
+Bodering countries : 
+
+
+==============================================================
+Country : Saint Helena, Ascension and Tristan da Cunha (United Kingdom), ID - 254
+Bodering countries : 
+
+
+==============================================================
+Country : Saint Kitts and Nevis, ID - 255
+Bodering countries : 
+
+
+==============================================================
+Country : Saint Lucia, ID - 256
+Bodering countries : 
+
+
+==============================================================
+Country : Saint Martin (France), ID - 257
+Bodering countries : 
+Sint Maarten (Netherlands), ID - 258
+
+
+==============================================================
+Country : Sint Maarten (Netherlands), ID - 258
+Bodering countries : 
+Saint Martin (France), ID - 257
+
+
+==============================================================
+Country : Saint Pierre and Miquelon (France), ID - 259
+Bodering countries : 
+
+
+==============================================================
+Country : Saint Vincent and the Grenadines, ID - 260
+Bodering countries : 
+
+
+==============================================================
+Country : Samoa, ID - 261
+Bodering countries : 
+
+
+==============================================================
+Country : Sao Tome and Principe, ID - 262
+Bodering countries : 
+
+
+==============================================================
+Country : Seychelles, ID - 263
+Bodering countries : 
+
+
+==============================================================
+Country : Singapore, ID - 264
+Bodering countries : 
+
+
+==============================================================
+Country : Solomon Islands, ID - 265
+Bodering countries : 
+
+
+==============================================================
+Country : South Georgia and the South Sandwich Islands (United Kingdom), ID - 266
+Bodering countries : 
+
+
+==============================================================
+Country : Svalbard (Norway), ID - 267
+Bodering countries : 
+
+
+==============================================================
+Country : Taiwan, ID - 268
+Bodering countries : 
+
+
+==============================================================
+Country : Tokelau (New Zealand), ID - 269
+Bodering countries : 
+
+
+==============================================================
+Country : Tonga, ID - 270
+Bodering countries : 
+
+
+==============================================================
+Country : Tromelin Island (France), ID - 271
+Bodering countries : 
+
+
+==============================================================
+Country : Trinidad and Tobago, ID - 272
+Bodering countries : 
+
+
+==============================================================
+Country : Turks and Caicos Islands (United Kingdom), ID - 273
+Bodering countries : 
+
+
+==============================================================
+Country : Tuvalu, ID - 274
+Bodering countries : 
+
+
+==============================================================
+Country : United States Virgin Islands (United States), ID - 275
+Bodering countries : 
+
+
+==============================================================
+Country : Vanuatu, ID - 276
+Bodering countries : 
+
+
+==============================================================
+Country : Wake Island (United States), ID - 277
+Bodering countries : 
+
+
+==============================================================
+Country : Wallis and Futuna (France), ID - 278
+Bodering countries : 
+
+
+
+=============================================================
+1. List all countries and bordering countries
+2. Find shortest path
+3. List all countries with X neighbors
+4. Find countries with borders larger than X km
+5. Exit
+Enter your option 
+Enter X
+*****************************************************
+	Countries with borders larger than X km
+*****************************************************
+
+1. Country : People's Republic of China, ID - 3
+2. Country : Democratic Republic of the Congo, ID - 31
+3. Country : Argentina, ID - 39
+4. Country : Brazil, ID - 41
+5. Country : Russia, ID - 64
+6. Country : India, ID - 70
+7. Country : Canada, ID - 124
+8. Country : United States, ID - 125
+9. Country : Kazakhstan, ID - 131
+10. Country : Mongolia, ID - 135
+
+=============================================================
+1. List all countries and bordering countries
+2. Find shortest path
+3. List all countries with X neighbors
+4. Find countries with borders larger than X km
+5. Exit
+Enter your option 
+Enter X
+*****************************************************
+	Countries with borders larger than X km
+*****************************************************
+
+1. Country : People's Republic of China, ID - 3
+2. Country : Democratic Republic of the Congo, ID - 31
+3. Country : Argentina, ID - 39
+4. Country : Brazil, ID - 41
+5. Country : Russia, ID - 64
+6. Country : India, ID - 70
+7. Country : United States, ID - 125
+8. Country : Kazakhstan, ID - 131
+9. Country : Mongolia, ID - 135
+
+=============================================================
+1. List all countries and bordering countries
+2. Find shortest path
+3. List all countries with X neighbors
+4. Find countries with borders larger than X km
+5. Exit
+Enter your option 
